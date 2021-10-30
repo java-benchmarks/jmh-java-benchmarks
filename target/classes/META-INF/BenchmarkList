@@ -1,0 +1,2 @@
+JMH S 51 com.yulikexuan.benchmarks.jdk.StringInternBenchmark S 84 com.yulikexuan.benchmarks.jdk.jmh_generated.StringInternBenchmark_testIntern_jmhTest S 10 testIntern S 11 AverageTime E A 1 1 1 E I 1 2 T 3 3 s E I 1 5 T 3 3 s E I 1 2 E E E E E M 1 6 strAmt 1 8 xAAMAADA U 11 NANOSECONDS E E 
+JMH S 51 com.yulikexuan.benchmarks.jdk.StringInternBenchmark S 81 com.yulikexuan.benchmarks.jdk.jmh_generated.StringInternBenchmark_testMap_jmhTest S 7 testMap S 11 AverageTime E A 1 1 1 E I 1 2 T 3 3 s E I 1 5 T 3 3 s E I 1 2 E E E E E M 1 6 strAmt 1 8 xAAMAADA U 11 NANOSECONDS E E 
