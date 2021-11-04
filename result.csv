@@ -1,0 +1,3 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit","Param: strAmt"
+"com.yulikexuan.benchmarks.jdk.StringInternBenchmark.testIntern","avgt",1,10,10655.760313,147.669268,"ns/op",100
+"com.yulikexuan.benchmarks.jdk.StringInternBenchmark.testMap","avgt",1,10,1380.775741,124.888924,"ns/op",100
