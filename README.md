@@ -17,3 +17,6 @@
         - Some tools are probably already obsolete 
         - or at least have been superseded by new, superior tools 
         - Keeping up-to-date in this area is important
+
+
+## [Working with the JIT Compiler](README_JIT.md)

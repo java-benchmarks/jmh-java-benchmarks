@@ -15,6 +15,9 @@ public class Workbench {
 
     public static void main(String[] args) {
 
+        System.out.println(String.format(">>> There are %d CPU Processors available.",
+                Runtime.getRuntime().availableProcessors()));
+
         final Console console = System.console();
         String numStr = null;
         int factor = 0;
