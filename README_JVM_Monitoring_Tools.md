@@ -6,7 +6,7 @@
 ## Basic Information about a Running JVM Process
 
 ### ``` jps ```
-- Quickly Find  Java Application's Process ID
+- Quickly Find Java App's Process ID
 - The output example:
 
   ``` 
